@@ -49,7 +49,7 @@ Correlation Analysis: Use heatmaps to identify the relationships between the var
 Machine Learning: Apply logistic regression and linear regression to predict apple quality and other attributes. Evaluate the models based on their accuracy.
 Clustering: Perform K-means clustering to identify patterns in apple characteristics.
 
-##**Results**
+## **Results**
 
 The results from the EDA provide insights into the typical characteristics of high-quality and low-quality apples.
 Regression analysis helps to understand which features are most predictive of quality and other attributes.
