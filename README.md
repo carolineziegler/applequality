@@ -1,4 +1,4 @@
-#**Apple Quality Analysis Project**
+'#'**Apple Quality Analysis Project**
 
 This repository contains the code, dataset and Powerpoint presentation used for analyzing the quality of apples based on various physical and chemical characteristics. The analysis aims to explore relationships between different attributes such as size, weight, sweetness, crunchiness, juiciness, ripeness, and acidity, and how they correlate with the perceived quality of apples.
 
